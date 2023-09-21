@@ -1,3 +1,5 @@
+**This repo is out of date and is archived. Check out [an updated tutorial on using FusionAuth with Angular](https://fusionauth.io/docs/quickstarts/quickstart-javascript-angular-web) or [the updated GitHub repository](https://github.com/fusionauth/fusionauth-quickstart-javascript-angular-web).**
+
 # Example: Using Angular with FusionAuth
 This project contains an example project that illustrates using FusionAuth with Angular.
 
